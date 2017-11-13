@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="http://host.com/subdirectory" />
-	<id>http://host.com/subdirectory</id>
+	<link rel="self" href="http://host.com/wyamtest" />
+	<id>http://host.com/wyamtest</id>
 	<title>My Blog</title>
 	<rights>2017</rights>
-	<updated>2017-11-13T14:11:52Z</updated>
+	<updated>2017-11-13T14:18:22Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
-		<link href="http://host.com/subdirectory/posts/druhypost" />
-		<id>http://host.com/subdirectory/posts/druhypost</id>
+		<link href="http://host.com/wyamtest/posts/druhypost" />
+		<id>http://host.com/wyamtest/posts/druhypost</id>
 		<title>Dalsi</title>
 		<updated>2016-01-01T00:00:00Z</updated>
 		<content>&lt;p&gt;Ahoj, ahoj&lt;/p&gt;
@@ -16,8 +16,8 @@
 		<summary>&lt;p&gt;Ahoj, ahoj&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="http://host.com/subdirectory/posts/first-post" />
-		<id>http://host.com/subdirectory/posts/first-post</id>
+		<link href="http://host.com/wyamtest/posts/first-post" />
+		<id>http://host.com/wyamtest/posts/first-post</id>
 		<title>First Post</title>
 		<updated>2016-01-01T00:00:00Z</updated>
 		<content>&lt;p&gt;This is my first post!&lt;/p&gt;

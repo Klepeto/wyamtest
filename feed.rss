@@ -2,25 +2,25 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
 		<title>My Blog</title>
-		<link>http://host.com/subdirectory</link>
+		<link>http://host.com/wyamtest</link>
 		<description>Welcome!</description>
 		<copyright>2017</copyright>
-		<pubDate>Mon, 13 Nov 2017 14:11:52 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Nov 2017 14:11:52 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Nov 2017 14:18:22 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Nov 2017 14:18:22 GMT</lastBuildDate>
 		<item>
 			<title>Dalsi</title>
-			<link>http://host.com/subdirectory/posts/druhypost</link>
+			<link>http://host.com/wyamtest/posts/druhypost</link>
 			<description>&lt;p&gt;Ahoj, ahoj&lt;/p&gt;</description>
-			<guid>http://host.com/subdirectory/posts/druhypost</guid>
+			<guid>http://host.com/wyamtest/posts/druhypost</guid>
 			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;Ahoj, ahoj&lt;/p&gt;
 </content:encoded>
 		</item>
 		<item>
 			<title>First Post</title>
-			<link>http://host.com/subdirectory/posts/first-post</link>
+			<link>http://host.com/wyamtest/posts/first-post</link>
 			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
-			<guid>http://host.com/subdirectory/posts/first-post</guid>
+			<guid>http://host.com/wyamtest/posts/first-post</guid>
 			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
 </content:encoded>
